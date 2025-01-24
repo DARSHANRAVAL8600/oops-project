@@ -1,0 +1,19 @@
+.no1{
+    border: 1px solid red;
+}
+.cart-container{
+    height: 50px;
+    width: 50px;
+}
+.cart-logo{
+    line-height: 50px;
+}
+.cart-count{
+    height: 22px;
+    width: 22px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+}
